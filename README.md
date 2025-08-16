@@ -136,4 +136,4 @@ The app automatically detects the permission and continues once granted.
 
 ### Credits
 
-Made with ❤️ by Vie2Code
+Made with ❤️ by PINGVI
